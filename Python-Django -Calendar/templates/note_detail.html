@@ -1,0 +1,15 @@
+<!-- templates/post_detail.html -->
+
+<a href="{% url 'notes_filtered' object.date.id %}">Назад к списку заметок</a>
+
+
+{% block content %}
+  <div class="post-entry">
+      <h2>Заметка</h2>
+      <p>{{ object.date.date }}</p>
+      <p>{{ object.text }}</p>
+  </div>
+    <p></p><a href="{% url 'note-update' object.id %}">Редактировать</a></p>
+    <p></p><a href="{% url 'note-delete' object.id %}">Удалить</a></p>
+
+{% endblock content %}

@@ -1,0 +1,20 @@
+<!-- templates/home.html -->
+{% extends 'base.html' %}
+
+{% block content %}
+    <a href="{% url 'note-add' %}">+Новая заметка</a>
+    <table cellspacing="15">
+        <tr>
+            <th>Дата</th>
+            <th>Тип</th>
+        </tr>
+        {% for post in object_list %}
+            <div class="post-entry">
+                <tr>
+                    <td><h2><a href="{% url 'notes_filtered' post.id %}">{{ post.date }}</a></h2></td>
+                    <td><p>{{ post.type_day }}</p></td>
+                </tr>
+            </div>
+        {% endfor %}
+    </table>
+{% endblock content %}

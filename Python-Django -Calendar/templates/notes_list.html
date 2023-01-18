@@ -1,0 +1,24 @@
+<!-- templates/notes.html -->
+<a href="{% url 'home'%}">Назад к списку дней</a> </p>
+
+<h2> Заметки за {{ list_date }}</h2>
+
+{% block content %}
+
+    <table cellspacing="15">
+        <tr>
+            <th>Заметка</th>
+            <th>Время добавления</th>
+            <th>Время редактирования</th>
+        </tr>
+        {% for post in object_list %}
+            <div class="post-entry">
+                <tr>
+                    <td><h2><a href="{% url 'note_detail' post.id %}">Заметка {{ post.id }}</a></h2></td>
+                    <td><p>{{ post.time_create }}</p></td>
+                    <td><p>{{ post.time_update }}</p></td>
+                </tr>
+            </div>
+        {% endfor %}
+    </table>
+{% endblock content %}

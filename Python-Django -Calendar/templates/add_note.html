@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Добавление заметки</title>
+</head>
+<body>
+<h1>Добавление заметки</h1>
+<form action="" method="POST" autocomplete="on">
+{% csrf_token %}
+<div class="form-group">
+              {{formset}}
+              <input type="submit" value="Save" class="btn btn-primary btn-block">
+            </form>
+</form>
+</body>
+</html>
