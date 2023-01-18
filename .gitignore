@@ -32,8 +32,8 @@
 *.app
 
 #folders
-/cmake-build-debug/*
-/cmake-build-debug/
-/.idea
-/Google_tests
-/.DS_Store
+cmake-build-debug/*
+cmake-build-debug/
+.idea
+Google_tests
+.DS_Store
