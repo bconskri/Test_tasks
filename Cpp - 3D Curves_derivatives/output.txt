@@ -1,0 +1,71 @@
+{22.8949,29.2129,47.7465}
+{22.8949,29.2129,52.7465}
+Tests passed!
+
+Output coordinates of points and derivatives of all curves in the container at t=PI/4
+Ellipse with t=PI/4 curve point = {-36.70,-29.17,44.82}, derivative = {-10.02,7.40,0.00}
+Ellipse with t=PI/4 curve point = {46.34,25.47,-27.65}, derivative = {-33.74,18.16,0.00}
+Circle with t=PI/4 curve point = {56.98,-26.89,-37.62}, derivative = {-21.58,21.58,0.00}
+Ellipse with t=PI/4 curve point = {17.16,-6.09,-47.90}, derivative = {-34.95,27.83,0.00}
+Ellipse with t=PI/4 curve point = {49.25,18.05,-10.65}, derivative = {-23.06,21.54,0.00}
+Helix with t=PI/4 curve point = {59.64,55.52,-2.85}, derivative = {-16.62,16.62,-3.32}
+Helix with t=PI/4 curve point = {32.19,-29.20,-8.48}, derivative = {-10.98,10.98,-6.35}
+Helix with t=PI/4 curve point = {-15.44,6.93,-64.08}, derivative = {-16.06,16.06,-6.72}
+Helix with t=PI/4 curve point = {11.25,62.26,26.12}, derivative = {-34.77,34.77,-0.75}
+Helix with t=PI/4 curve point = {49.79,40.65,-44.81}, derivative = {-4.06,4.06,-4.48}
+Helix with t=PI/4 curve point = {48.30,41.07,54.85}, derivative = {-18.14,18.14,2.38}
+Ellipse with t=PI/4 curve point = {25.95,-25.76,-29.23}, derivative = {-27.40,11.43,0.00}
+Ellipse with t=PI/4 curve point = {12.11,50.50,38.43}, derivative = {-22.34,6.06,0.00}
+Ellipse with t=PI/4 curve point = {65.81,21.91,-1.30}, derivative = {-34.96,14.09,0.00}
+Helix with t=PI/4 curve point = {62.71,59.38,50.31}, derivative = {-20.34,20.34,1.82}
+Helix with t=PI/4 curve point = {15.95,-17.38,19.24}, derivative = {-10.27,10.27,-6.32}
+Ellipse with t=PI/4 curve point = {71.30,25.26,-16.38}, derivative = {-33.04,20.74,0.00}
+Circle with t=PI/4 curve point = {0.86,41.59,7.34}, derivative = {-18.78,18.78,0.00}
+Circle with t=PI/4 curve point = {6.77,-40.10,-43.30}, derivative = {-3.63,3.63,0.00}
+Circle with t=PI/4 curve point = {77.58,48.92,-45.15}, derivative = {-34.11,34.11,0.00}
+Ellipse with t=PI/4 curve point = {58.05,21.69,-8.50}, derivative = {-16.06,18.69,0.00}
+Helix with t=PI/4 curve point = {30.01,-29.63,-47.94}, derivative = {-17.80,17.80,-5.18}
+Circle with t=PI/4 curve point = {-11.56,42.75,7.96}, derivative = {-18.33,18.33,0.00}
+Ellipse with t=PI/4 curve point = {28.57,-10.68,29.40}, derivative = {-9.63,28.09,0.00}
+Helix with t=PI/4 curve point = {9.99,-14.11,-42.78}, derivative = {-4.05,4.05,-7.03}
+Ellipse with t=PI/4 curve point = {51.89,11.20,36.33}, derivative = {-11.05,19.97,0.00}
+Helix with t=PI/4 curve point = {-26.32,46.18,76.05}, derivative = {-5.09,5.09,7.81}
+Circle with t=PI/4 curve point = {18.76,-22.14,-9.23}, derivative = {-6.69,6.69,0.00}
+Helix with t=PI/4 curve point = {2.74,-15.28,12.41}, derivative = {-22.28,22.28,-7.59}
+Ellipse with t=PI/4 curve point = {-29.64,-18.12,-32.70}, derivative = {-15.77,13.02,0.00}
+Helix with t=PI/4 curve point = {26.74,48.26,-64.14}, derivative = {-16.72,16.72,-5.78}
+Helix with t=PI/4 curve point = {8.47,-9.86,-37.06}, derivative = {-5.80,5.80,0.99}
+Circle with t=PI/4 curve point = {-19.95,23.74,-46.57}, derivative = {-18.06,18.06,0.00}
+Ellipse with t=PI/4 curve point = {26.15,-10.90,-41.91}, derivative = {-9.50,17.56,0.00}
+Helix with t=PI/4 curve point = {-10.44,62.09,34.93}, derivative = {-29.52,29.52,-2.85}
+Ellipse with t=PI/4 curve point = {28.75,10.31,34.54}, derivative = {-10.75,31.32,0.00}
+Circle with t=PI/4 curve point = {65.10,-24.33,-24.30}, derivative = {-20.62,20.62,0.00}
+Helix with t=PI/4 curve point = {25.98,62.64,-8.78}, derivative = {-20.69,20.69,-1.08}
+Ellipse with t=PI/4 curve point = {21.62,-13.25,22.85}, derivative = {-32.82,15.71,0.00}
+Helix with t=PI/4 curve point = {40.89,56.69,-27.16}, derivative = {-13.11,13.11,-1.20}
+Circle with t=PI/4 curve point = {13.39,39.28,29.52}, derivative = {-34.63,34.63,0.00}
+Circle with t=PI/4 curve point = {41.81,32.26,1.51}, derivative = {-13.69,13.69,0.00}
+Circle with t=PI/4 curve point = {61.12,25.25,-25.03}, derivative = {-25.24,25.24,0.00}
+Ellipse with t=PI/4 curve point = {13.16,39.36,-48.68}, derivative = {-11.75,30.72,0.00}
+Helix with t=PI/4 curve point = {-2.35,64.85,16.38}, derivative = {-23.47,23.47,3.93}
+Circle with t=PI/4 curve point = {-9.58,40.98,27.93}, derivative = {-7.33,7.33,0.00}
+Ellipse with t=PI/4 curve point = {63.27,17.05,-47.68}, derivative = {-16.23,20.76,0.00}
+Helix with t=PI/4 curve point = {68.33,25.20,5.11}, derivative = {-20.79,20.79,7.41}
+Ellipse with t=PI/4 curve point = {-22.45,27.12,-13.03}, derivative = {-6.75,4.29,0.00}
+Helix with t=PI/4 curve point = {-12.22,-10.14,-40.23}, derivative = {-27.75,27.75,-3.06}
+
+Circles radii
+30.52
+26.56
+5.13
+48.24
+25.93
+9.46
+25.53
+29.16
+48.98
+19.36
+35.70
+10.36
+
+Total sum of radii of all curves in the second container: 314.92
